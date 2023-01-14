@@ -19,6 +19,7 @@ contract BasicMarketplace {
 
     constructor() {
         numProduct = 0;
+        addProduct("Product 1", 100);
     }
 
     function addProduct(string memory itemName, uint256 askingPrice) public {

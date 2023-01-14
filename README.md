@@ -1,1 +1,1 @@
-# basic marketplace ethereum
+# basic marketplace ethereum running on local hardhat network
